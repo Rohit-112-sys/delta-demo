@@ -5,4 +5,4 @@ This is a Demo for Git &amp; Github class.
 Rohit Funde
 
 # Student 
-Atharv
+Third Year
